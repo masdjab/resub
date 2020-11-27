@@ -44,4 +44,4 @@ Example:
 }
 ```
 
-The above examples provide 4 adjustment parameters. All texts will be adjusted based these parameters. To get best adjustment, provide as many parameter as you can.
+The above examples provide 4 adjustment parameters. To get best adjustment, provide as many parameter as you can.
